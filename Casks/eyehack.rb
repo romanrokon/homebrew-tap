@@ -1,6 +1,6 @@
 cask "eyehack" do
-  version "0.1.17"
-  sha256 "9ee9a00a9d2d584ae6384922ef399ee18ec2f3a919cbe13ace21a1b6de021d72"
+  version "0.1.18"
+  sha256 "5c4dc8fd18a385a485acb08da7a533824d4a9a38b33f6bf0a5a1b2b41cc2dd30"
 
   url "https://github.com/romanrokon/eyehack/releases/download/v#{version}/EyeHack_#{version}_universal.dmg",
       verified: "github.com/romanrokon/eyehack/"
